@@ -1,0 +1,44 @@
+body {
+    background-color: #1c242e;
+    color: #fefbf7;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+  }
+  
+  h2 {
+    font-size: 25px;
+    color: #e6473b;
+  }
+
+  h3 {
+    font-size: 20px;
+    color: #e6473b;
+  }
+
+  a:link, a:visited {
+    background-color: #050b0f;
+    color: #fefbf7;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: #f4e91d;
+    color: #050b0f;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
